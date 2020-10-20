@@ -14,6 +14,8 @@ case $selection in
 	2) echo "Starting Game in Two-Player Mode"
 		;;
 	3) echo "Help"
+		echo "1. Select if you want to play in single-player mode or two-player mode."
+		echo "2. Select which player goes first"
 		;;
 	4) echo "Bye"
 		exit 0
