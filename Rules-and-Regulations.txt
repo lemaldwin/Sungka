@@ -1,0 +1,25 @@
+RULES AND REGULATIONS!
+
+1. The game begins with 49 game pieces
+
+2. The game pieces will be equally distributed to alternate holes
+
+3. Seven pieces in every other hole - except "bases" which remain empty
+
+4. Each player controls the seven houses on his side of the board and owns the "base" to his right.
+
+5. The goal is to accumulate as many pieces in your own "base".
+
+6. The first player takes all pieces from the house on the extreme left (7th house) on his side. He then distributes them anti-clockwise --- one in each house to the right of the starting house --- skipping the opponent's "base" but not the player's own "base".
+        a. If the last piece falls into an occupied house then all the pieces are removed from that house, and are distributed in the same way (to the right of that house) in another round.
+
+7. The player's (current) turn ends when the last piece falls into an empty house on the opponent's side.
+        a. If the last piece distributed falls into a player's own "base" then the player earns another turn, which can begin at any of the seven houses on his side.
+        b. If the last piece distributed falls into an empty house on his side then the player captures all the pieces in the house directly across from this one, on the opponent's side and put them (plus the last pieces distributed) in his own "base". If the opposing house is empty, no pieces are captured.
+
+8. The other player chooses which house he wishes to start from, removes the pieces and distributes them - one in each house to the right of that chosen hole.
+        a. If a player has no pieces on his side of the board when it is his turn, then he must pass.
+
+9. The game ends when a player gather 25 pieces in his base.
+
+10. Enjoy the game.

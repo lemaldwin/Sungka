@@ -1,26 +1,29 @@
 #!/bin/bash
+#Game Menu
 
-echo "Game Menu"
-echo "1. Single Player"
-echo "2. Two-Player"
-echo "3. Help"
-echo "4. Exit"
+clear
+while true ;do
+        echo "Menu:"
+        echo "1. Single Player"
+        echo "2. 2-Player Mode"
+        echo "3. Rules and Regulations"
+        echo "4. Quit"
+        echo -n "Enter the number of your choice: "
+        read INPUT
 
-read -p "Choice: " selection
-
-case $selection in
-	1) echo "Starting Game in Single Player Mode"
-		;;
-	2) echo "Starting Game in Two-Player Mode"
-		;;
-	3) echo "Help"
-		echo "1. Select if you want to play in single-player mode or two-player mode."
-		echo "2. Select which player goes first"
-		;;
-	4) echo "Bye"
-		exit 0
-		;;
-	*) echo "Invalid choice. Exiting..."
-		;;
-esac
+        case $INPUT in
+                1) echo "Single player mode: "
+						./sungka1p.bash
+						;;
+                2) echo "2-player mode"
+                        ./sungka2p.bash
+                        ;;
+                3)
+                        clear
+                        cat Rules\ and\ Regulations.txt;;
+                4) echo "Goodbye."
+                        break;;
+                *) echo "Invalid choice" ;;
+        esac
+done
 exit 0
